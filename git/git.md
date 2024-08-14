@@ -1,5 +1,0 @@
-# Git commands
-
-```bash
-
-```
